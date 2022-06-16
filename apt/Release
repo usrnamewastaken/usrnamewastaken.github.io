@@ -1,7 +1,7 @@
 Architectures: iphoneos-arm
 Codename: iPhoneOS-tweaks
 Components: main
-Date: Thu, 16 Jun 2022 16:39:35 +0000
+Date: Thu, 16 Jun 2022 16:52:30 +0000
 Description: iOS projects
 Label: repo
 Origin: usrname's APT repo
@@ -10,28 +10,24 @@ Version: 1.0
 MD5Sum:
  e6d83e5cc55dbe393fcc278719c726ed              609 apt/Packages
  d7ea955ec41c01ea39aad7aa6bfd8083              449 apt/Packages.bz2
- add88c321e48791d09a30f4ff7ee12b1              432 apt/Packages.gz
+ 52c422eb79d6c6bcbaf48195982a0060              432 apt/Packages.gz
  e8b0fc1d32ee3d3cf4b622d47007879d              492 apt/Packages.xz
- fd5562e48ae72419e90cfe59cb35217f              423 apt/Packages.zst
- fbfba2f382bbd688bf66d00cbc7646ee              201 apt/Release
+ 9f8c7f79d61476a1134bf9d62465d3c1              201 apt/Release
 SHA1:
  a592d2c487d4b36766196b47e363a581522db45a              609 apt/Packages
  27dd7bd293564a026f1884a83c89987df868411a              449 apt/Packages.bz2
- 595f29a8cfb206813d5ae03ec3e451fb974f6f54              432 apt/Packages.gz
+ 75d257f2bdafe05c36902707b1ba69d44cba445f              432 apt/Packages.gz
  7e4b7627a21b9edfd783433b7dcd9823a0f1120f              492 apt/Packages.xz
- 02fa716d50a29abc8954b6cb22dd2e5efa8bdf9d              423 apt/Packages.zst
- 857978e83a6283a78ccf954a62fe7a109335e1f6              201 apt/Release
+ 0a531050c0fea0e03e5b04b8b6a263922cc2fbbc              201 apt/Release
 SHA256:
  b74be4a5c09277d9a1b806fafc55d224b2f46751edea58c4a670b1587330a66b              609 apt/Packages
  d4bcdd24160aca3a6d1c54fb99802afb5abc8e8b2fa0902efa46e91ba73286b9              449 apt/Packages.bz2
- 8e34208cc7b2ba1f4605461d8379350901cdd37d8fdc79f38f6239ca26f8d5d5              432 apt/Packages.gz
+ a733a85f65552a4a5ffe8804295b4d9db91eeabf312aca299d817045c7617c93              432 apt/Packages.gz
  640e0028bf7de0b7dea873941396c76460d975d514b1a7be3465efd44380e79a              492 apt/Packages.xz
- 9415724ad21d7ced2e595cade25318c6ba90a547747d11c5ea226919ae1b59fc              423 apt/Packages.zst
- 2d46493a0795719b8fc3cbd84401d8c735e7173686ef95691dc9a10cb497b7cf              201 apt/Release
+ 54a469dd0bf3891e43da5a9749996892a4fab8500f007e8835708a9540905596              201 apt/Release
 SHA512:
  eed9728d7d836a2e03320ac22f49f6f0269b27a6e4127bb43b7cf376b95b5b7fd70a934b822fa5a796239235b0c3684667742d076225cf50d604535f8b6b4c37              609 apt/Packages
  cd0f9189116b580c829f017ee274f92b39b63d0dee73a73f477c7765705863a1516aad255e503513736f751acb8e7a84534a9a8480812d64696e6711f68697c3              449 apt/Packages.bz2
- d5d89d2ecd515105b068e4253dd0282b59f4914ae78bd6f7ed7df6b28a181cff84731b91a49bb9673e1abf62d80cfefc78c112b64e244c9f3500c8db2964a509              432 apt/Packages.gz
+ c28e4ac63ebd77f977bb72a57b426df5108924c2de5d23a0865a3573ef84e08ae8c3abfbc804045dad700922ff3aeee3ca291a0fec1cacb25b54b6b264c2026b              432 apt/Packages.gz
  2900f559e734464c780d2de96e2cf28d9ca4e04e2798f8d77a57c0f5e0d429a661563daafc398a62ebba7dd3e515a8d66f739d23a1d754e64c67e3b26527964a              492 apt/Packages.xz
- b780d1bcfb9bbeca38e522a3139ecc0ccbfed6fd316b595bf3abe2d21d5d4c74486c4a18a676b0e4562b0ab4b32b4fbbb3ca4a2730cad1428df62fe0ef9c658f              423 apt/Packages.zst
- 65acc4e03451cbffe09a06b11a1d8673233482cd827972f0edf6d49b84f0c932420ec18974ae91cee339f0a40aacd5030d5c4c49aff75faee8b59b12614864ff              201 apt/Release
+ e81517e2282360882c814538d29e4627a3b1596aceb96f14f684bce33f2c526d1c71808f5fd25657e210e44796b9982c7fda245a4ca5e1a46153b042232d3d54              201 apt/Release

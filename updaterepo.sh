@@ -7,7 +7,6 @@ if [[ "$OSTYPE" == "linux"* ]]; then
     apt-ftparchive packages ./apt/debs > ./apt/Packages
     gzip -c9 ./apt/Packages > ./apt/Packages.gz
     xz -c9 ./apt/Packages > ./apt/Packages.xz
-    zstd -c19 ./apt/Packages > ./apt/Packages.zst
     bzip2 -c9 ./apt/Packages > ./apt/Packages.bz2
     
     apt-ftparchive release -c ./apt/repo.conf . > ./apt/Release
