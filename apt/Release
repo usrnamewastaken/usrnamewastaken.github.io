@@ -1,33 +1,37 @@
 Architectures: iphoneos-arm
-Codename: iPhoneOS-tweaks
+Codename: CODENAME_HERE
 Components: main
-Date: Thu, 16 Jun 2022 16:52:30 +0000
-Description: iOS projects
-Label: repo
+Date: Fri, 08 Jul 2022 19:20:43 +0000
+Description: usrname's APT repo
+Label: usrname's APT repo
 Origin: usrname's APT repo
 Suite: stable
 Version: 1.0
 MD5Sum:
- e6d83e5cc55dbe393fcc278719c726ed              609 apt/Packages
- d7ea955ec41c01ea39aad7aa6bfd8083              449 apt/Packages.bz2
- 52c422eb79d6c6bcbaf48195982a0060              432 apt/Packages.gz
- e8b0fc1d32ee3d3cf4b622d47007879d              492 apt/Packages.xz
- 9f8c7f79d61476a1134bf9d62465d3c1              201 apt/Release
+ d41d8cd98f00b204e9800998ecf8427e                0 Packages
+ 4059d198768f9f8dc9372dc1c54bc3c3               14 Packages.bz2
+ d40eaa69e8014c3c71746509b8ebab00               29 Packages.gz
+ 8dc5aea5b03dff8595f096f9e368e888               32 Packages.xz
+ 5d80401e01d33084c65e94f93351e94c               13 Packages.zst
+ 4c87b3b4961e0651d7310d944f20828f              219 Release
 SHA1:
- a592d2c487d4b36766196b47e363a581522db45a              609 apt/Packages
- 27dd7bd293564a026f1884a83c89987df868411a              449 apt/Packages.bz2
- 75d257f2bdafe05c36902707b1ba69d44cba445f              432 apt/Packages.gz
- 7e4b7627a21b9edfd783433b7dcd9823a0f1120f              492 apt/Packages.xz
- 0a531050c0fea0e03e5b04b8b6a263922cc2fbbc              201 apt/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 Packages
+ 64a543afbb5f4bf728636bdcbbe7a2ed0804adc2               14 Packages.bz2
+ 15665c473095d9f108ba00958eab7b372e6586ea               29 Packages.gz
+ 9746882f4236fa1c3a8f86be2f1d9c46680c0b10               32 Packages.xz
+ fb2e51cbd24e286dd066bd419d77cd772967e384               13 Packages.zst
+ 58b0b4f3a0ec327a26c43efe617e03b4a307ecff              219 Release
 SHA256:
- b74be4a5c09277d9a1b806fafc55d224b2f46751edea58c4a670b1587330a66b              609 apt/Packages
- d4bcdd24160aca3a6d1c54fb99802afb5abc8e8b2fa0902efa46e91ba73286b9              449 apt/Packages.bz2
- a733a85f65552a4a5ffe8804295b4d9db91eeabf312aca299d817045c7617c93              432 apt/Packages.gz
- 640e0028bf7de0b7dea873941396c76460d975d514b1a7be3465efd44380e79a              492 apt/Packages.xz
- 54a469dd0bf3891e43da5a9749996892a4fab8500f007e8835708a9540905596              201 apt/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 Packages
+ d3dda84eb03b9738d118eb2be78e246106900493c0ae07819ad60815134a8058               14 Packages.bz2
+ 7c69d028bc125bfda0a4eacf05227b3fe63b716f3f0c1ce08faa661777730dbc               29 Packages.gz
+ 0040f94d11d0039505328a90b2ff48968db873e9e7967307631bf40ef5679275               32 Packages.xz
+ f96deff1816083fdff8bc3e46c3fe6ca46a6bb49f4d5a00627616c13237a512c               13 Packages.zst
+ fb42338589961db673e07c0aa168ce5eb0e0bc3df4e6463d45d81ba05eb3d90c              219 Release
 SHA512:
- eed9728d7d836a2e03320ac22f49f6f0269b27a6e4127bb43b7cf376b95b5b7fd70a934b822fa5a796239235b0c3684667742d076225cf50d604535f8b6b4c37              609 apt/Packages
- cd0f9189116b580c829f017ee274f92b39b63d0dee73a73f477c7765705863a1516aad255e503513736f751acb8e7a84534a9a8480812d64696e6711f68697c3              449 apt/Packages.bz2
- c28e4ac63ebd77f977bb72a57b426df5108924c2de5d23a0865a3573ef84e08ae8c3abfbc804045dad700922ff3aeee3ca291a0fec1cacb25b54b6b264c2026b              432 apt/Packages.gz
- 2900f559e734464c780d2de96e2cf28d9ca4e04e2798f8d77a57c0f5e0d429a661563daafc398a62ebba7dd3e515a8d66f739d23a1d754e64c67e3b26527964a              492 apt/Packages.xz
- e81517e2282360882c814538d29e4627a3b1596aceb96f14f684bce33f2c526d1c71808f5fd25657e210e44796b9982c7fda245a4ca5e1a46153b042232d3d54              201 apt/Release
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 Packages
+ 6de201dfed1d45412509c65deb34690dc2d09c6aafccfe491fd2f440f92842b9c755b61dc7bcdd4cc0c9f18cf46c2b3a1241e99c4c2a33fff5555e7b2f0b6348               14 Packages.bz2
+ 48ec8d7bbf0bf03df9be94a317b52e8c7fbc8a0a3df1c3b98d4925695c53015916e287e85e34a68da38f7435e53e7e061ad06dd3ea89f5be55b176281523129f               29 Packages.gz
+ 034b32f1138322638c7a5b7949a3b184c6a4cdfd003360a496c08c56c2cc645c94fbe9cdf9d84c963af6dda6c442717cd61d7e1cecf7024bd463f6f5196c5527               32 Packages.xz
+ 654b3bc259db923bca2fb5ac8d8c2aa5ceddf594cce152d2a467850ae092317206e3bea307c8528e05442811f5ef8c4ccb9daa4da2a56ddc7f436c6ee1aee7d0               13 Packages.zst
+ f3e2076ab8e1f4cf2c1e8b116bb289f917b09ac254ebe648f19d93dcb641ef7e349ccb0a06622dbba31177446c1cfcb3265789998942fb65503f335c84731367              219 Release
