@@ -1,0 +1,17 @@
+Package: com.usrname.locationfaker
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: usrname
+Installed-Size: 312
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/com.usrname.locationfaker_0.0.1-1+debug_iphoneos-arm.deb
+Size: 36506
+MD5sum: 27d12ac84856577082296e455d5c5d91
+SHA1: b5a7b7dfba16728120915e6bddc273008377b173
+SHA256: d694d32db1d71ee831eeb3fbb8b28d42ef212c212a733082ba7c159cefda6b2b
+SHA512: 76a7a10add695207d202da83b0a899006a384e8511fe292ed59573f1e7c0d139646c8f3859fdda799347f3877e8e0d52e7b98ef7cb72918b2b1627a5cde950b9
+Description: Fake your location to most apps. Coordinates can be configured in the settings app.
+Name: Location Faker
+Author: usrname
+
