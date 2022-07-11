@@ -8,7 +8,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## TWEAK_NAME\nSHORT_DESCRIPTION"
+					"markdown": "## LocationFaker\nMinimal Location Faker for iOS"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -19,32 +19,32 @@
 				},
 				{
 					"title": "Version",
-					"text": "VERSION_NUMBER",
+					"text": "1.0",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Released",
-					"text": "RELEASE_DATE",
+					"text": "07-09-2022",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Price",
-					"text": "PRICE",
+					"text": "Free",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Developer",
-					"text": "DEVELOPER_NAME",
+					"text": "usrname",
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Website",
-					"action": "WEBSITE_HERE",
+					"title": "Source for this Tweak",
+					"action": "https://github.com/usrnamewastaken/LocationFaker",
 					"class": "DepictionTableButtonView"
 				},
 				{
-					"title": "Use This Template",
-					"action": "https://github.com/syns/repo.me",
+					"title": "Twitter",
+					"action": "https://twitter.com/usrname15",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -62,13 +62,13 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "VERSION_NUMBER",
+					"title": "1.0",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 UPDATE_DESCRIPTION",
+					"markdown": "\t\n\u2022 Added Preference Bundle",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
