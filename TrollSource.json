@@ -13,12 +13,12 @@
     },
     {
 
-      "name": "Pogo",
-      "bundleIdentifier": "com.amywhile.Pogo",
-      "developerName": "Amy While",
-      "version": "1.0",
-      "versionDescription": "Utility to install procursus bootstrap.",
-      "downloadURL": "https://nightly.link/elihwyma/Pogo/workflows/build/main/Pogo.zip",
+      "name": "AppStore++",
+      "bundleIdentifier": "com.cokepokes.appstore++",
+      "developerName": "CokePokes",
+      "version": "1.2.1",
+      "versionDescription": "Utility to upgrade/downgrade installed apps",
+      "downloadURL": "https://github.com/CokePokes/AppStorePlus-TrollStore/blob/main/AppStore++_TrollStore_v1.2-1.ipa",
     },
 
    ]
