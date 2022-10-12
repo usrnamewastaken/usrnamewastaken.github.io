@@ -10,7 +10,7 @@
       "version": "3.9.7",
       "versionDescription": "Filza for jailed devices, meant to be used with trollstore",
       "downloadURL": "https://tigisoftware.com/download/Filza_3.9.7.ipa",
-    ],
+    
    },
     
    {
@@ -23,5 +23,6 @@
       "downloadURL": "https://github.com/CokePokes/AppStorePlus-TrollStore/blob/main/AppStore++_TrollStore_v1.2-1.ipa",
     },
 
+    ]
    
 }
