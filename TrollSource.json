@@ -1,0 +1,15 @@
+{
+  "name": "Filza",
+  "identifier": "com.tigisoftware.Filza",
+  "sourceURL": "https://usrnamewastaken.github.io/TrollSource.json",
+  "apps": [
+    {
+      "name": "Filza File Manager",
+      "bundleIdentifier": "com.tigisoftware.Filza",
+      "developerName": "TIGI software",
+      "version": "3.9.7",
+      "versionDescription": "Filza for jailed devices, meant to be used with trollstore",
+      "downloadURL": "https://tigisoftware.com/download/Filza_3.9.7.ipa",
+    }
+   ]
+}
