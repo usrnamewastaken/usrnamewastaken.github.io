@@ -10,6 +10,16 @@
       "version": "3.9.7",
       "versionDescription": "Filza for jailed devices, meant to be used with trollstore",
       "downloadURL": "https://tigisoftware.com/download/Filza_3.9.7.ipa",
-    }
+    },
+    {
+
+      "name": "Pogo",
+      "bundleIdentifier": "com.amywhile.Pogo",
+      "developerName": "Amy While",
+      "version": "1.0",
+      "versionDescription": "Utility to install procursus bootstrap.",
+      "downloadURL": "https://nightly.link/elihwyma/Pogo/workflows/build/main/Pogo.zip",
+    },
+
    ]
 }
