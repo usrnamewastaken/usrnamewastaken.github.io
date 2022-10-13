@@ -23,8 +23,23 @@
       "downloadURL": "https://github.com/opa334/TrollNonce/releases/download/1.0.1/TrollNonce.ipa",
 
   },
+ 
+  {
+      "name": "Jaility",
+      "bundleIdentifier": "org.haxi0.jaility",
+      "developerName": "haxi0",
+      "version": "2.0.2",
+      "downloadURL": "https://github.com/haxi0/Jaility/releases/download/2.0.2/Jaility.2.0.2.ipa",
+  },
 
+  { 
 
+      "name": "Mugunghwa",
+      "bundleIdentifier": "com.s8ngyu.mugungwha",
+      "developerName": "s8ngyu",
+      "version": "2.0.3",
+      "downloadURL": "https://github.com/s8ngyu/Mugunghwa/releases/download/2.0.3/Mugunghwa.ipa",
+  },
  ]
    
 }
