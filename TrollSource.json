@@ -7,6 +7,7 @@
       "name": "Filza File Manager",
       "bundleIdentifier": "com.tigisoftware.Filza",
       "developerName": "TIGI software",
+      "version": "3.9.7",
       "versionDescription": "Filza for jailed devices, meant to be used with trollstore",
       "downloadURL": "https://tigisoftware.com/download/Filza_3.9.7.ipa",
     
@@ -18,6 +19,7 @@
       "name": "TrollNonce",
       "bundleIdentifier": "com.opa334.TrollNonce",
       "developerName": "opa334",
+      "version": "1.1",
       "downloadURL": "https://github.com/opa334/TrollNonce/releases/download/1.0.1/TrollNonce.ipa",
 
   },
@@ -26,6 +28,7 @@
       "name": "Jaility",
       "bundleIdentifier": "org.haxi0.jaility",
       "developerName": "haxi0",
+      "version": "2.0.2",
       "downloadURL": "https://github.com/haxi0/Jaility/releases/download/2.0.2/Jaility.2.0.2.ipa",
   },
 
@@ -34,14 +37,16 @@
       "name": "Mugunghwa",
       "bundleIdentifier": "me.soongyu.mugungwhautil",
       "developerName": "s8ngyu",
+      "version": "2.0.3",
       "downloadURL": "https://github.com/s8ngyu/Mugunghwa/releases/download/2.0.3/Mugunghwa.ipa",
   },
   
   { 
 
-      "name": "Cardio",
+      "name": "cardio",
       "bundleIdentifier": "com.cisc0freak.cardio",
       "developerName": "Cisco0disco",
+      "version": "1.1",
       "downloadURL": "https://github.com/cisc0disco/Cardio/releases/download/1.1/Cardio.ipa",
   },
 
@@ -50,6 +55,7 @@
       "name": "AppStore++",
       "bundleIdentifier": "com.cokepokes.AppStorePlus",
       "developerName": "CokePokes",
+      "version": "1.0.2",
       "downloadURL": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v1.2-1/AppStore++_TrollStore_v1.2-1.ipa",
   },
 
