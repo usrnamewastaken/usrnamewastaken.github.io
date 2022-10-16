@@ -19,8 +19,7 @@
       "name": "TrollNonce",
       "bundleIdentifier": "com.opa334.TrollNonce",
       "developerName": "opa334",
-      "version": "1.1",
-      "downloadURL": "https://github.com/opa334/TrollNonce/releases/download/1.0.1/TrollNonce.ipa",
+      "downloadURL": "https://github.com/opa334/TrollNonce/releases/latest/download/TrollNonce.ipa",
 
   },
  
@@ -28,8 +27,7 @@
       "name": "Jaility",
       "bundleIdentifier": "org.haxi0.jaility",
       "developerName": "haxi0",
-      "version": "2.0.2",
-      "downloadURL": "https://github.com/haxi0/Jaility/releases/download/2.0.2/Jaility.2.0.2.ipa",
+      "downloadURL": "https://github.com/haxi0/Jaility/releases/latest/download/Jaility.2.1.1.ipa",
   },
 
   { 
@@ -37,17 +35,15 @@
       "name": "Mugunghwa",
       "bundleIdentifier": "me.soongyu.mugungwhautil",
       "developerName": "s8ngyu",
-      "version": "2.0.3",
-      "downloadURL": "https://github.com/s8ngyu/Mugunghwa/releases/download/2.0.3/Mugunghwa.ipa",
+      "downloadURL": "https://github.com/s8ngyu/Mugunghwa/releases/latest/download/Mugunghwa.ipa",
   },
   
   { 
 
-      "name": "cardio",
+      "name": "Cardio",
       "bundleIdentifier": "com.cisc0freak.cardio",
       "developerName": "Cisco0disco",
-      "version": "1.1",
-      "downloadURL": "https://github.com/cisc0disco/Cardio/releases/download/1.1/Cardio.ipa",
+      "downloadURL": "https://github.com/cisc0disco/Cardio/releases/latest/download/Cardio.ipa",
   },
 
   {
